@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayakmondal357&label=Profile%20views&color=0e75b6&style=flat" alt="sayakmondal357" /> </p>
 
-- 🔭 I’m currently working on [Cryptocurrency Project](https://cryptobase-a8d7b.web.app/)
-
 - 🌱 I’m currently learning **React.Js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React, C++, Java, DSA**
